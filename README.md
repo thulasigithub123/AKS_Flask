@@ -27,3 +27,24 @@ This is a simple To-Do List web application built using **Flask**, a lightweight
 
 ## **Folder Structure**
 
+
+
+
+
+## local environment setup
+
+1. install python
+2. create local folder structure
+
+3. install pip dependencies ( like flask )
+
+![alt text](image.png)
+
+
+![alt text](image-1.png)
+
+
+check if application is hosted locally
+
+
+![alt text](image-2.png)
