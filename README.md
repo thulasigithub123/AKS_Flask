@@ -1,4 +1,6 @@
 # **To-Do List Application**
+![alt text](<Grey minimalist business project presentation .gif>)
+![alt text](image-6.png)
 
 ## **Overview**
 
@@ -43,6 +45,26 @@ Docker works the same way for applications. It packages the application along wi
 
 ### **In Technical Terms**
 Docker is
+
+
+
+# **Azure Kubernetes Service (AKS)**
+
+Azure Kubernetes Service (AKS) is a managed container orchestration service provided by Microsoft Azure. It simplifies the deployment, scaling, and management of containerized applications using Kubernetes.
+
+---
+
+## **What is AKS?**
+
+### **In Layman’s Terms**
+Imagine you're running a restaurant with multiple chefs preparing different dishes (applications). Coordinating them manually can be chaotic. Now, you hire a kitchen manager (Kubernetes) who assigns tasks, ensures proper ingredient supply, and adjusts the number of chefs based on customer demand. 
+
+AKS is like that kitchen manager, but for applications. It helps run, manage, and scale multiple applications (containers) automatically across servers (nodes).
+
+---
+
+### **In Technical Terms**
+AKS is a
 
 
 ## **Folder Structure**
